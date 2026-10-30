@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-bielov-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Write%20me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:andriibielov73@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Remote-EU%20%2F%20US-0ea5e9?style=for-the-badge" alt="Remote EU/US" />
 </p>
 
@@ -166,5 +166,5 @@ If you're hiring for a Senior Full-Stack or AI Engineer role, or have an LLM fea
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-bielov-dev/">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="mailto:andriibielov73@gmail.com">Email</a>
 </p>
